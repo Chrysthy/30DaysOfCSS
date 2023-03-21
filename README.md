@@ -1,9 +1,10 @@
-# 30DaysOfCSS
+# 30 Days Of CSS
 
+<P> 🖥 Main goal </P>
+Improve coding skills by making mini daily projects using HTML5 and CSS.
+<br>
 
-
-
-<p> 🗒 Challenges </p>
+<p> 📝 Challenges </p>
 <p> Day 01 - Animation using search box </P>
 <p> Day 02 - Animated loader</P>
 <p> Day 03 - Layered social media icon</P>
