@@ -1,14 +1,14 @@
-<h1> 30 Days Of CSS </h1>
+<h1 align="center"> 30 Days Of CSS </h1>
 
-<h2> 🖥 Main goal </h2>
-<p> Improve coding skills by making mini daily projects using HTML5 and CSS. Project created by [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS). </p>
+# 🖥 Main goal 
+* Improve coding skills by making mini daily projects using HTML5 and CSS. Project created by [Milena Carecho - 30 dias De CSS](https://github.com/MilenaCarecho/30diasDeCSS).
 
-<h2> :loudspeaker: Rules </h2>
+# :loudspeaker: Rules
 
-<p> Create a Project per Day. </p>
+* Create a Project per Day. 
 <br>
 
-<h2> 📝 Challenges </h2>
+# 📝 Challenges 
 <br>
 
 <p> Day 01 - Animation using search box </P>
