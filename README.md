@@ -46,7 +46,7 @@
 
 <br>
 
-<h2> Let's Get Started!</h2>
+# :writing_hand: Let's Get Started!
 <br>
 
 ## Day 01 <a name="id01"></a>
