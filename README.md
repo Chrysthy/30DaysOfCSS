@@ -1,4 +1,4 @@
-<h1 align="center"> 30 Days Of CSS </h1>
+<h1 align="center"> 30 Days Of CSS :fountain_pen: </h1>
 
 # 🖥 Main goal 
 * Improve coding skills by making mini daily projects using HTML5 and CSS. Project created by [Milena Carecho - 30 dias De CSS](https://github.com/MilenaCarecho/30diasDeCSS).
@@ -11,36 +11,284 @@
 # 📝 Challenges 
 <br>
 
-<p> Day 01 - Animation using search box </P>
-<p> Day 02 - Animated loader</P>
-<p> Day 03 - Layered social media icon</P>
-<p> Day 04 - Color changing checkbox</P>
-<p> Day 05 - Floating text</P>
-<p> Day 06 - Heart beating</P>
-<p> Day 07 - Shiny button</P>
-<p> Day 08 - Animated screen</P>
-<p> Day 09 - Animation with hover images</P>
-<p> Day 10 - Animated Checkbox Neon effect</P>
-<p> Day 11 - Pulsing effect</P>
-<p> Day 12 - Typewriter</P>
-<p> Day 13 - Text color change when entering another div</P>
-<p> Day 14 - Rotating card animation</P>
-<p> Day 15 - Shiny text</P>
-<p> Day 16 - Lightsaber</P>
-<p> Day 17 - Animated menu</P>
-<p> Day 18 - Smoky Text</P>
-<p> Day 19 - Background that changes color</P>
-<p> Day 20 - Fill effect when hovering</P>
-<p> Day 21 - Animated text background with stars</P>
-<p> Day 22 - Colorful animation</P>
-<p> Day 23 - Animation with text</P>
-<p> Day 24 - Image Slideshow</P>
-<p> Day 25 - Button with effect</P>
-<p> Day 26 - Animated circles</P>
-<p> Day 27 - Circles with effects</P>
-<p> Day 28 - Page Background Animation</P>
-<p> Day 29 - Effect with heart</P>
-<p> Day 30 - Fireworks</P>
+* [Day 01 - Animation using search box](#id01)
+* [Day 02 - Animated loader](#id02)
+* [Day 03 - Layered social media icon](#id03)
+* [Day 04 - Color changing checkbox](#id04)
+* [Day 05 - Floating text](#id05)
+* [Day 06 - Heart beating](#id06)
+* [Day 07 - Shiny button](#id07)
+* [Day 08 - Animated screen](#id08)
+* [Day 09 - Animation with hover images](#id09)
+* [Day 10 - Animated Checkbox Neon effect](#id10)
+* [Day 11 - Pulsing effect](#id11)
+* [Day 12 - Typewriter](#id12)
+* [Day 13 - Text color change when entering another div](#id13)
+* [Day 14 - Rotating card animation](#id14)
+* [Day 15 - Shiny text](#id15)
+* [Day 16 - Lightsaber](#id16)
+* [Day 17 - Animated menu](#id17)
+* [Day 18 - Smoky Text](#id18)
+* [Day 19 - Background that changes color](#id19)
+* [Day 20 - Fill effect when hovering](#id20)
+* [Day 21 - Animated text background with stars](#id21)
+* [Day 22 - Colorful animation](#id22)
+* [Day 23 - Animation with text](#id23)
+* [Day 24 - Image Slideshow](#id24)
+* [Day 25 - Button with effect](#id25)
+* [Day 26 - Animated circles](#id26)
+* [Day 27 - Circles with effects](#id27)
+* [Day 28 - Page Background Animation](#id28)
+* [Day 29 - Effect with heart](#id29)
+* [Day 30 - Fireworks](#id30)
+
+<hr>
+
+<br>
+
+<h2> Let's Get Started!</h2>
+<br>
+
+## Day 01 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day01">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 02 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day02">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 03 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day03">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 04 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day04">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 05 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day05">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 06 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day06">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 07 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day07">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 08 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day08">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 09 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day09">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 10 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day10">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 11 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day11">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 12 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day12">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 13 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day13">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 14 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day14">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 15 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day15">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 16 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day16">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 17 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day17">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 18 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day18">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 19 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day19">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 20 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day20">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 21 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day21">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 22 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day22">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 23 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day23">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+  
+## Day 24 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day24">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+  
+## Day 25 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day25">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+  
+## Day 26 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day26">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+  
+## Day 27 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day27">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+  
+
+## Day 28 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day28">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+  
+## Day 29 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day29">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
+
+## Day 30 <a name="id01"></a>
+<img src="./Challenges/Day_01/day01.gif" alt="day30">
+
+- [LinkedIn]() 
+- [Instagram]()
+
+<br>
 
 <br>
 <hr>
