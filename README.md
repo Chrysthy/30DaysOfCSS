@@ -5,7 +5,10 @@
 
 # :loudspeaker: Rules
 
-* Create a Project per Day. 
+* Create a Project per Day.
+* Share your progress using the hashtags #30DaysOfCSS and #30diasDeCSS;
+* The project must be completed by 11:59 pm.
+  
 <br>
 
 # 📝 Challenges 
