@@ -53,7 +53,7 @@
 <br>
 
 ## Day 01 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day01">
+<img src="./challenges/Day_01/day01.gif" alt="day01">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -62,7 +62,7 @@
 <br>
 
 ## Day 02 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day02">
+<img src="./challenges/day-01/day02.gif" alt="day02">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -70,7 +70,7 @@
 <br>
 
 ## Day 03 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day03">
+<img src="./challenges/day-01/day03.gif" alt="day03">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -78,7 +78,7 @@
 <br>
 
 ## Day 04 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day04">
+<img src="./challenges/day-01/day04.gif" alt="day04">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -86,7 +86,7 @@
 <br>
 
 ## Day 05 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day05">
+<img src="./challenges/day-01/day05.gif" alt="day05">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -94,7 +94,7 @@
 <br>
 
 ## Day 06 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day06">
+<img src="./challenges/day-01/day06.gif" alt="day06">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -102,7 +102,7 @@
 <br>
 
 ## Day 07 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day07">
+<img src="./challenges/day-01/day07.gif" alt="day07">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -110,7 +110,7 @@
 <br>
 
 ## Day 08 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day08">
+<img src="./challenges/day-01/day08.gif" alt="day08">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -118,7 +118,7 @@
 <br>
 
 ## Day 09 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day09">
+<img src="./challenges/day-01/day08.gif" alt="day09">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -126,7 +126,7 @@
 <br>
 
 ## Day 10 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day10">
+<img src="./challenges/day-01/day10.gif" alt="day10">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -134,7 +134,7 @@
 <br>
 
 ## Day 11 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day11">
+<img src="./challenges/day-01/day11.gif" alt="day11">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -142,7 +142,7 @@
 <br>
 
 ## Day 12 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day12">
+<img src="./challenges/day-01/day12.gif" alt="day12">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -150,7 +150,7 @@
 <br>
 
 ## Day 13 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day13">
+<img src="./challenges/day-01/day13.gif" alt="day13">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -158,7 +158,7 @@
 <br>
 
 ## Day 14 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day14">
+<img src="./challenges/day-01/day14.gif" alt="day14">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -166,7 +166,7 @@
 <br>
 
 ## Day 15 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day15">
+<img src="./challenges/day-01/day15.gif" alt="day15">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -174,7 +174,7 @@
 <br>
 
 ## Day 16 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day16">
+<img src="./challenges/day-01/day16.gif" alt="day16">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -182,7 +182,7 @@
 <br>
 
 ## Day 17 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day17">
+<img src="./challenges/day-01/day17.gif" alt="day17">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -190,7 +190,7 @@
 <br>
 
 ## Day 18 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day18">
+<img src="./challenges/day-01/day18.gif" alt="day18">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -198,7 +198,7 @@
 <br>
 
 ## Day 19 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day19">
+<img src="./challenges/day-01/day19.gif" alt="day19">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -206,7 +206,7 @@
 <br>
 
 ## Day 20 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day20">
+<img src="./challenges/day-01/day20.gif" alt="day20">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -214,7 +214,7 @@
 <br>
 
 ## Day 21 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day21">
+<img src="./challenges/day-01/day21.gif" alt="day21">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -222,7 +222,7 @@
 <br>
 
 ## Day 22 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day22">
+<img src="./challenges/day-01/day22.gif" alt="day22">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -230,7 +230,7 @@
 <br>
 
 ## Day 23 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day23">
+<img src="./challenges/day-01/day23.gif" alt="day23">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -238,7 +238,7 @@
 <br>
   
 ## Day 24 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day24">
+<img src="./challenges/day-01/day24.gif" alt="day24">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -246,7 +246,7 @@
 <br>
   
 ## Day 25 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day25">
+<img src="./challenges/day-01/day25.gif" alt="day25">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -254,7 +254,7 @@
 <br>
   
 ## Day 26 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day26">
+<img src="./challenges/day-01/day26.gif" alt="day26">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -262,7 +262,7 @@
 <br>
   
 ## Day 27 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day27">
+<img src="./challenges/day-01/day27.gif" alt="day27">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -271,7 +271,7 @@
   
 
 ## Day 28 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day28">
+<img src="./challenges/day-01/day28.gif" alt="day28">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -279,7 +279,7 @@
 <br>
   
 ## Day 29 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day29">
+<img src="./challenges/day-01/day29.gif" alt="day29">
 
 - [LinkedIn]() 
 - [Instagram]()
@@ -287,7 +287,7 @@
 <br>
 
 ## Day 30 <a name="id01"></a>
-<img src="./Challenges/Day_01/day01.gif" alt="day30">
+<img src="./challenges/day-01/day30.gif" alt="day30">
 
 - [LinkedIn]() 
 - [Instagram]()
