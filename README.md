@@ -54,7 +54,7 @@
 
 <br>
 
-# :writing_hand: Let's Get Started!
+## :writing_hand: Let's Get Started!
 <br>
 
 ## Day 01 <a name="id01"></a>
