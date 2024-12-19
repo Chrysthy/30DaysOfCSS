@@ -1,10 +1,12 @@
 <h1 align="center"> 30 Days Of CSS :fountain_pen: </h1>
 
-# 🖥 Main goal 
+## 🖥 Main goal 
 * Improve coding skills by making mini daily projects using HTML5 and CSS.
 * Project created by [Milena Carecho - 30 dias De CSS](https://github.com/MilenaCarecho/30diasDeCSS).
 
-# :loudspeaker: Rules
+<br>
+
+## :loudspeaker: Rules
 
 * Create a Project per Day.
 * Share your progress using the hashtags #30DaysOfCSS and #30diasDeCSS;
@@ -12,7 +14,7 @@
   
 <br>
 
-# 📝 Challenges 
+## 📝 Challenges 
 <br>
 
 * [Day 01 - Animation using search box](#id01)
