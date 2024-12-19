@@ -1,4 +1,6 @@
-<h1 align="center"> 30 Days Of CSS :fountain_pen: </h1>
+<h1 align="center"> 30 Days of CSS </h1> 
+
+<br>
 
 ## 🖥 Main goal 
 * Improve coding skills by making mini daily projects using HTML5 and CSS.
