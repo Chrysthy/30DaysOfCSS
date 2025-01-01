@@ -60,9 +60,11 @@
 ## Day 01 <a name="id01"></a>
 <img src="./challenges/day-01/day01.gif" alt="day01">
 
+<img src="./challenges/day-01/day-1.gif" alt="gif-day-1" >
+
 - [LinkedIn]() 
 - [Instagram]()
-- [My Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/Challenges/Day_01)
+- [My Code]https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-01)
 
 <br>
 
