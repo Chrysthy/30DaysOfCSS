@@ -65,7 +65,7 @@
 <img src="./challenges/day-01/day-1.gif" alt="day01">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280221392946552833/)
-- [Instagram]()
+- [Instagram](https://www.instagram.com/p/DEXSHyiRxXxLXNteWtpG0cE3512OUCdK48Anc00/)
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-01)
 
 <br>
@@ -75,7 +75,7 @@
 <img src="./challenges/day-02/day-2.gif/" alt="day02">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280740906423513089/)
-- [Instagram]()
+- [Instagram](https://www.instagram.com/p/DEXStPoxKct9Ugk7thekPzZSLcj2e5j4P_Dkus0/)
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-2)
 
 <br>
