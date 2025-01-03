@@ -78,6 +78,7 @@
 
 - [LinkedIn]()
 - [Instagram]()
+- [My Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-2)
 
 <br>
 
