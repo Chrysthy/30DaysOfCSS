@@ -64,8 +64,6 @@
 
 <img src="./challenges/day-01/day01.gif" alt="day01">
 
-<img src="./challenges/day-01/day-1.gif" alt="gif-day-1" >
-
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280221392946552833/)
 - [Instagram]()
 - [My Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-01)
@@ -74,7 +72,7 @@
 
 ## Day 02 <a name="id02"></a>
 
-<img src="./challenges/day-02/day02.gif" alt="day02">
+<img src="./challenges/day-02/day-2.gif2/" alt="day02">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280740906423513089/)
 - [Instagram]()
