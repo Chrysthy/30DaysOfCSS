@@ -5,6 +5,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    background-color: #f1f1f1;
 }
 
 ul {
@@ -21,7 +23,6 @@ ul li {
     height: 60px;
     margin: 0 30px;
     transform: rotate(-30deg) skew(25deg);
-    background: #ccc;
 }
 
 ul li span {
