@@ -62,7 +62,7 @@
 
 ## Day 01 <a name="id01"></a>
 
-<img src="./challenges/day-01/day01.gif" alt="day01">
+<img src="./challenges/day-01/day-1.gif" alt="day01">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280221392946552833/)
 - [Instagram]()
@@ -300,7 +300,6 @@
 - [Instagram]()
 
 <br>
-
 
 ## Day 28 <a name="id28"></a>
 
