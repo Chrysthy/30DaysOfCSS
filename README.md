@@ -52,9 +52,17 @@
 - [Day 29 - Effect with heart](#id29)
 - [Day 30 - Fireworks](#id30)
 
-<hr>
+<br>
+
+## 👀 Did someone say Bonus content?
 
 <br>
+
+- [Day 31 - ](#id31)
+
+<br>
+
+<hr>
 
 ## :writing_hand: Let's Get Started!
 
@@ -327,6 +335,17 @@
 - [Instagram]()
 
 <br>
+
+✨ Bonus content
+
+<br>
+
+## Day 31 <a name="id31"></a>
+
+<img src="./challenges/day-31/day31.gif" alt="day31">
+
+- [LinkedIn]()
+- [Instagram]()
 
 <br>
 
