@@ -1,4 +1,13 @@
-<h1 align="center"> 30 Days of CSS </h1>
+<h1 align="center"> 30 Days of CSS 🎨 </h1>
+
+<p align="center">  
+  <a href="#-main-goal">Main goal</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-rules">Rules</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-challenges">Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#support">Support</a> 
+</p>
 
 <br>
 
@@ -336,7 +345,7 @@
 
 <br>
 
-✨ Bonus content
+## ✨ Bonus content
 
 <br>
 
