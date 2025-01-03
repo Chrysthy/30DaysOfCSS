@@ -72,7 +72,7 @@
 
 ## Day 02 <a name="id02"></a>
 
-<img src="./challenges/day-02/day-2.gif2/" alt="day02">
+<img src="./challenges/day-02/day-2.gif/" alt="day02">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280740906423513089/)
 - [Instagram]()
