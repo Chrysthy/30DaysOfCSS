@@ -72,7 +72,6 @@
 
 <br>
 
-<hr>
 
 ## :writing_hand: Let's Get Started!
 
