@@ -82,7 +82,7 @@
 
 ## Day 03 <a name="id03"></a>
 
-<img src="./challenges/day-03/day03.gif" alt="day03">
+<img src="./challenges/day-03/day-3.gif" alt="day03">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280936017170157568/)
 - [Instagram]()
