@@ -1,0 +1,47 @@
+body {
+    background-color: #fd70fd;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 5px 0 #000;
+    background: transparent;
+    animation: animate 1.5s linear infinite;
+}
+
+.loading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    color: #000;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    text-align: center;
+    line-height: 200px;
+    background: transparent;
+}
+
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
