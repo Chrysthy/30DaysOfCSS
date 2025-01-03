@@ -76,7 +76,7 @@
 
 <img src="./challenges/day-02/day02.gif" alt="day02">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280740906423513089/)
 - [Instagram]()
 - [My Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-2)
 
