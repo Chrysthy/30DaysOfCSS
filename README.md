@@ -18,7 +18,7 @@
 
 <br>
 
-## :loudspeaker: Rules
+## 📢 Rules
 
 - Create a Project per Day.
 - Share your progress using the hashtags #30DaysOfCSS and #30diasDeCSS;
