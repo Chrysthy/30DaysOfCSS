@@ -84,7 +84,7 @@
 
 <img src="./challenges/day-03/day03.gif" alt="day03">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280936017170157568/)
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-03)
 
