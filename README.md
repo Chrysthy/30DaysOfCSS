@@ -66,7 +66,7 @@
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280221392946552833/)
 - [Instagram]()
-- [My Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-01)
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-01)
 
 <br>
 
@@ -76,7 +76,7 @@
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280740906423513089/)
 - [Instagram]()
-- [My Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-2)
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-2)
 
 <br>
 
