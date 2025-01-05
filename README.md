@@ -109,10 +109,11 @@
 
 ## Day 04 <a name="id04"></a>
 
-<img src="./challenges/day-04/day04.gif" alt="day04">
+<img src="./challenges/day-04/day-4.gif" alt="day04">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7281487777840459777/)
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-04)
 
 <br>
 
