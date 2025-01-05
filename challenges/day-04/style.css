@@ -16,7 +16,7 @@ label {
     background-color: #f1f1f1;
     border-radius: 200px;
 
-    box-shadow: inset 0px 5px 15px rgba(0, 0, 0, 0.2), inset 0px -5px 15px rgba(225, 225, 225, 0.4);
+    box-shadow: inset 0px 5px 15px rgba(0, 0, 0, 0.4), inset 0px -5px 15px rgba(225, 225, 225, 0.4);
 
     cursor: pointer;
 
@@ -28,9 +28,9 @@ label::after {
     width: 100px;
     height: 100px;
     position: absolute;
-    top: 25px;
+    top: 24.5px;
     left: 10px;
-    background-color: #ffffff;
+    background-color: orange;
     border-radius: 180px;
 
     transition: 0.3s;
@@ -50,7 +50,7 @@ input:checked+label {
 input:checked+label::after {
     left: 285px;
     transform: translateX(-100%);
-    background-color: #ffffff;
+    background-color: #777;
 }
 
 label:active::after {
