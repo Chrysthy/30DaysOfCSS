@@ -133,6 +133,7 @@
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7282143982887849984/)
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-06)
 
 <br>
 
