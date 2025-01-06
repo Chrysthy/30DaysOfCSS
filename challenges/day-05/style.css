@@ -1,7 +1,27 @@
 body {
     height: 100vh;
+
     display: flex;
     justify-content: center;
     align-items: center;
+
     background-color: #dda0dd;
+
+    font-family: 'Playwrite AU SA', sans-serif;
+}
+
+h1 {
+    text-shadow: 0 2px 0 #F9F9F9, 0 20px 5px rgba(0,0,0,.1);
+    animation: float 2s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes float {
+    from {
+        transform: rotate(10deg);
+    }
+
+    to {
+        transform: rotate(-10deg);
+    }
 }
