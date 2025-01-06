@@ -72,7 +72,6 @@
 
 <br>
 
-
 ## :writing_hand: Let's Get Started!
 
 <br>
@@ -129,7 +128,7 @@
 
 ## Day 06 <a name="id06"></a>
 
-<img src="./challenges/day-06/day06.gif" alt="day06">
+<img src="./challenges/day-06/day-6.gif" width="450px" alt="day06">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7282143982887849984/)
 - [Instagram]()
@@ -143,7 +142,7 @@
 
 - [LinkedIn]()
 - [Instagram]()
-<br>
+  <br>
 
 ## Day 08 <a name="id08"></a>
 
@@ -360,10 +359,9 @@
 
 <br>
 
-
 ## 📜 License
 
-* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+- This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
 
 <br>
 
