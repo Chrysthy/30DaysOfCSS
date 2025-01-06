@@ -119,7 +119,7 @@
 
 ## Day 05 <a name="id05"></a>
 
-<img src="./challenges/day-05/day05.gif" alt="day05">
+<img src="./challenges/day-05/day-5.gif" alt="day05">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7281840325789184000/)
 - [Instagram]()
