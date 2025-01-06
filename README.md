@@ -123,6 +123,7 @@
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7281840325789184000/)
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-05)
 
 <br>
 
