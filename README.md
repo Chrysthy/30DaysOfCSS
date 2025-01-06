@@ -79,7 +79,7 @@
 
 ## Day 01 <a name="id01"></a>
 
-<img src="./challenges/day-01/day-1.gif" alt="day01">
+<img src="./challenges/day-01/day-1.gif" alt="day01" width="300px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280221392946552833/)
 - [Instagram](https://www.instagram.com/p/DEXSHyiRxXxLXNteWtpG0cE3512OUCdK48Anc00/)
@@ -89,7 +89,7 @@
 
 ## Day 02 <a name="id02"></a>
 
-<img src="./challenges/day-02/day-2.gif/" alt="day02">
+<img src="./challenges/day-02/day-2.gif/" alt="day02" width="300px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280740906423513089/)
 - [Instagram](https://www.instagram.com/p/DEXStPoxKct9Ugk7thekPzZSLcj2e5j4P_Dkus0/)
@@ -99,7 +99,7 @@
 
 ## Day 03 <a name="id03"></a>
 
-<img src="./challenges/day-03/day-3.gif" alt="day03">
+<img src="./challenges/day-03/day-3.gif" alt="day03" width="300px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280936017170157568/)
 - [Instagram](https://www.instagram.com/p/DEXXyWtRf640CPZQ6H42X56M9Ka1Xyqr1QFF7E0/)
@@ -109,7 +109,7 @@
 
 ## Day 04 <a name="id04"></a>
 
-<img src="./challenges/day-04/day-4.gif" alt="day04">
+<img src="./challenges/day-04/day-4.gif" alt="day04" width="300px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7281487777840459777/)
 - [Instagram]()
@@ -119,7 +119,7 @@
 
 ## Day 05 <a name="id05"></a>
 
-<img src="./challenges/day-05/day-5.gif" alt="day05">
+<img src="./challenges/day-05/day-5.gif" width="300px" alt="day05">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7281840325789184000/)
 - [Instagram]()
@@ -142,7 +142,6 @@
 
 - [LinkedIn]()
 - [Instagram]()
-
 <br>
 
 ## Day 08 <a name="id08"></a>
