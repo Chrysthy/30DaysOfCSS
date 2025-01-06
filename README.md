@@ -131,7 +131,7 @@
 
 <img src="./challenges/day-06/day06.gif" alt="day06">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7282143982887849984/)
 - [Instagram]()
 
 <br>
