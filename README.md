@@ -111,7 +111,7 @@
 <img src="./challenges/day-04/day-4.gif" alt="day04" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7281487777840459777/)
-- [Instagram]()
+- [Instagram](https://www.instagram.com/p/DEgACXoRQnJBKuxrnRl6-UqV-4UK7tnOUH5U4w0/)
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-04)
 
 <br>
@@ -121,7 +121,7 @@
 <img src="./challenges/day-05/day-5.gif" width="450px" alt="day05">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7281840325789184000/)
-- [Instagram]()
+- [Instagram](https://www.instagram.com/p/DEgAEsuRk8M41ZqNiD8Ru4dUfYXOfHXHGf06Ro0/)
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-05)
 
 <br>
@@ -131,7 +131,7 @@
 <img src="./challenges/day-06/day-6.gif" width="450px" alt="day06">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7282143982887849984/)
-- [Instagram]()
+- [Instagram](https://www.instagram.com/p/DEgAGmtxe5G3S4yiUCMPMBIO6oTDAjfkiH6aHo0/)
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-06)
 
 <br>
