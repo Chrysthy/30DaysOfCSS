@@ -144,7 +144,7 @@
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-07)
 
-  <br>
+<br>
 
 ## Day 08 <a name="id08"></a>
 
