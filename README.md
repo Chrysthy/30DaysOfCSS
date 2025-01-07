@@ -142,6 +142,8 @@
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7282378387396939776/)
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-07)
+
   <br>
 
 ## Day 08 <a name="id08"></a>
