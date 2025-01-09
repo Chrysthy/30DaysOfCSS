@@ -148,7 +148,7 @@
 
 ## Day 08 <a name="id08"></a>
 
-<img src="./challenges/day-08/day08.gif" alt="day08">
+<img src="./challenges/day-08/day-8.gif" alt="day08" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7282946077140414464/)
 - [Instagram]()
