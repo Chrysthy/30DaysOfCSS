@@ -160,7 +160,7 @@
 
 <img src="./challenges/day-09/day09.gif" alt="day09">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7283106884876709888/)
 - [Instagram]()
 
 <br>
