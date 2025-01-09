@@ -150,7 +150,7 @@
 
 <img src="./challenges/day-08/day08.gif" alt="day08">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7282946077140414464/)
 - [Instagram]()
 
 <br>
