@@ -158,7 +158,7 @@
 
 ## Day 09 <a name="id09"></a>
 
-<img src="./challenges/day-09/day09.gif" alt="day09">
+<img src="./challenges/day-09/day-9.gif" alt="day09" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7283106884876709888/)
 - [Instagram]()
