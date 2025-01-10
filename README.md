@@ -168,7 +168,7 @@
 
 ## Day 10 <a name="id10"></a>
 
-<img src="./challenges/day-10/day10.gif" alt="day10">
+<img src="./challenges/day-10/day-10.gif" alt="day10" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7283465939172347908/)
 - [Instagram]()
