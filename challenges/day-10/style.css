@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    list-style: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000
+}
+
+ul {
+    display: flex;
+    gap: 50px;
+}
+
+ul li label {
+    cursor: pointer;
+}
+
+
+ul li label input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+
+}
+
+ul li label .icon {
+    color: #888;
+    font-size: 80px;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+    -webkit-text-stroke: 1px #444;
+}
+
+ul li:nth-child(1) label input[type="checkbox"]:checked~.icon {
+    color: #ff0000;
+    text-shadow: 0 0 5px #ff0000, 0 0 10px #ff4d4d;
+}
+
+ul li:nth-child(2) label input[type="checkbox"]:checked~.icon {
+    color: #007bff;
+    text-shadow: 0 0 5px #007bff, 0 0 10px #80bfff;
+}
+
+ul li:nth-child(3) label input[type="checkbox"]:checked~.icon {
+    color: #ffd700;
+    text-shadow: 0 0 5px #ffd700, 0 0 10px #ffec80;
+}
+
+ul li:nth-child(4) label input[type="checkbox"]:checked~.icon {
+    color: #888;
+    text-shadow: 0 0 5px #888, 0 0 10px #aaa;
+}
+
+ul li:nth-child(5) label input[type="checkbox"]:checked~.icon {
+    color: #00ff00;
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #80ff80;
+}
