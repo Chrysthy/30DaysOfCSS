@@ -178,9 +178,9 @@
 
 ## Day 11 <a name="id11"></a>
 
-<img src="./challenges/day-11/day11.gif" alt="day11">
+<img src="./challenges/day-11/day-11.gif" alt="day11" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7283942092748328962/)
 - [Instagram]()
 
 <br>
