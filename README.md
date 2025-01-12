@@ -192,6 +192,7 @@
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7284300391725371394/)
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-12)
 
 <br>
 
