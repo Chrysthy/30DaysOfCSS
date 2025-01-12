@@ -188,7 +188,7 @@
 
 ## Day 12 <a name="id12"></a>
 
-<img src="./challenges/day-12/day12.gif" alt="day12">
+<img src="./challenges/day-12/day-12.gif" alt="day12" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7284300391725371394/)
 - [Instagram]()
