@@ -190,7 +190,7 @@
 
 <img src="./challenges/day-12/day12.gif" alt="day12">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7284300391725371394/)
 - [Instagram]()
 
 <br>
