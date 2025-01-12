@@ -1,0 +1,53 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    background: #090909;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Special Elite', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: #ffffff;
+    
+}
+
+p {
+    font-size: 32px;
+    color: #ffffff;
+    white-space: nowrap;
+
+    overflow: hidden;
+
+    border-right: 2px solid #ffffff;
+
+    animation: typing 4s steps(40, end), blink 0.5s step-end infinite;
+}
+
+p:nth-of-type(2) {
+    animation: typing 4s steps(40, end) 4s, blink 0.5s step-end infinite 4s;
+}
+
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
