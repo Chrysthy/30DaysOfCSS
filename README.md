@@ -200,7 +200,7 @@
 
 <img src="./challenges/day-13/day-13.gif" alt="day13" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7284731818505883648/)
 - [Instagram]()
 
 <br>
