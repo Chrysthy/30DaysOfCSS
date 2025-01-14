@@ -198,10 +198,11 @@
 
 ## Day 13 <a name="id13"></a>
 
-<img src="./challenges/day-13/day13.gif" alt="day13">
+<img src="./challenges/day-13/day-13.gif" alt="day13" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7284731818505883648/)
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-13)
 
 <br>
 
