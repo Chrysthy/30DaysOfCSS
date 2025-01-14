@@ -198,7 +198,7 @@
 
 ## Day 13 <a name="id13"></a>
 
-<img src="./challenges/day-13/day13.gif" alt="day13">
+<img src="./challenges/day-13/day-13.gif" alt="day13" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
