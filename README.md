@@ -208,7 +208,7 @@
 
 ## Day 14 <a name="id14"></a>
 
-<img src="./challenges/day-14/day14.gif" alt="day14">
+<img src="./challenges/day-14/day-14.gif" alt="day14" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7285057443347255297/)
 - [Instagram]()
