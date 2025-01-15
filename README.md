@@ -218,7 +218,7 @@
 
 ## Day 15 <a name="id15"></a>
 
-<img src="./challenges/day-15/day15.gif" alt="day15">
+<img src="./challenges/day-15/day-15.gif" alt="day15" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
