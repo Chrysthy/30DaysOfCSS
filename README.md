@@ -220,7 +220,7 @@
 
 <img src="./challenges/day-15/day-15.gif" alt="day15" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7285385256629587969/)
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-15)
 
