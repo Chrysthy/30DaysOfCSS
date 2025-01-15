@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     display: flex;
     justify-content: center;
@@ -6,6 +9,9 @@ body {
 
     background-color: #f1f1f1;
     margin: 0;
+
+    font-family: "Roboto", serif;
+    font-style: italic;
 }
 
 span {
