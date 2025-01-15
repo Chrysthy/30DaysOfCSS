@@ -1,86 +1,82 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-
-    background-color: #f1f1f1;
-    margin: 0;
-
-    font-family: "Roboto", serif;
-    font-style: italic;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f1f1f1; /* Tom suave rosado para o fundo */
+  margin: 0;
+  
+  font-family: "Roboto", serif;
+  font-style: italic;
 }
 
 span {
-    color: #FFFFFF;
-    animation: colorPulse 3s linear infinite;
-    display: inline-block;
+  color: #FFFFFF;
+  animation: colorPulse 3s linear infinite;
+  display: inline-block;
 }
 
-.container span {
-    font-size: 80px;
-    font-weight: bold;
-    text-transform: uppercase;
+.card span {
+  font-size: 80px; /* Ajuste do tamanho do texto */
+  font-weight: bold;
+  text-transform: uppercase; /* Letras em caixa alta */
 }
 
 @keyframes colorPulse {
-    0% {
-        color: #FFFFFF;
-    }
-
-    50% {
-        color: #DDA0DD;
-    }
-
-    100% {
-        color: #C27BA0;
-    }
+  0% {
+    color: #FFFFFF; /* Branco inicial */
+  }
+  50% {
+    color: #DDA0DD; /* Plum */
+  }
+  100% {
+    color: #C27BA0; /* Rosa antigo */
+  }
 }
 
-.container span:nth-child(1) {
-    animation-delay: 0s;
+.card span:nth-child(1) {
+  animation-delay: 0s;
 }
 
-.container span:nth-child(2) {
-    animation-delay: 0.1s;
+.card span:nth-child(2) {
+  animation-delay: 0.1s;
 
 }
 
-.container span:nth-child(3) {
-    animation-delay: 0.2s;
+.card span:nth-child(3) {
+  animation-delay: 0.2s;
 }
 
-.container span:nth-child(4) {
-    animation-delay: 0.3s;
+.card span:nth-child(4) {
+  animation-delay: 0.3s;
 }
 
-.container span:nth-child(5) {
-    animation-delay: 0.4s;
+.card span:nth-child(5) {
+  animation-delay: 0.4s;
 }
 
-.container span:nth-child(6) {
-    animation-delay: 0.5s;
+.card span:nth-child(6) {
+  animation-delay: 0.5s;
 }
 
-.container span:nth-child(7) {
-    animation-delay: 0.6s;
+.card span:nth-child(7) {
+  animation-delay: 0.6s;
 }
 
 .card span:nth-child(8) {
-    animation-delay: 0.7s;
+  animation-delay: 0.7s;
 }
 
-.container span:nth-child(9) {
-    animation-delay: 0.8s;
+.card span:nth-child(9) {
+  animation-delay: 0.8s;
 }
 
-.container span:nth-child(10) {
-    animation-delay: 0.9s;
+.card span:nth-child(10) {
+  animation-delay: 0.9s;
 }
 
-.container span:nth-child(11) {
-    animation-delay: 1s;
+.card span:nth-child(11) {
+  animation-delay: 1s;
 }
