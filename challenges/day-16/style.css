@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.sabre {
+    display: flex;
+    align-items: center;
+}
+
+.cabo {
+    width: 100px;
+    height: 20px;
+    background: linear-gradient(45deg, #555, #333, #555);
+    border-radius: 10px;
+    box-shadow: 0 0 10px #222;
+    position: relative;
+}
+
+.cabo::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 6px;
+    background: #888;
+    border-radius: 3px;
+    box-shadow: inset 0 0 5px #000;
+}
+
+.cabo::after {
+    
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    
+    width: 5px;
+    height: 10px;
+    background: #222;
+    border-radius: 2px;
+}
+
+.luz {
+    width: 200px;
+    height: 8px;
+    background: linear-gradient(90deg, rgba(0, 255, 0, 0.9), rgba(0, 255, 0, 0.1));
+    box-shadow: 0 0 20px 5px rgba(0, 255, 0, 0.8);
+    animation: pulsar 1.5s infinite;
+    transform-origin: left center;
+    transform: scaleX(1);
+}
+
+@keyframes pulsar {
+
+    0%,
+    100% {
+        box-shadow: 0 0 20px 5px rgba(0, 255, 0, 0.8);
+        transform: scaleX(1);
+    }
+
+    50% {
+        box-shadow: 0 0 25px 10px rgba(0, 255, 0, 1);
+        transform: scaleX(1.05);
+    }
+}
