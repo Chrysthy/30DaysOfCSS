@@ -228,7 +228,7 @@
 
 ## Day 16 <a name="id16"></a>
 
-<img src="./challenges/day-16/day16.gif" alt="day16">
+<img src="./challenges/day-16/day-16.gif" alt="day16" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7285788096976068609/)
 - [Instagram]()
