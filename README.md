@@ -248,7 +248,7 @@
 
 ## Day 18 <a name="id18"></a>
 
-<img src="./challenges/day-18/day18.gif" alt="day18">
+<img src="./challenges/day-18/day-18.gif" alt="day18" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
