@@ -250,7 +250,7 @@
 
 <img src="./challenges/day-18/day-18.gif" alt="day18" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7286492922349314048/)
 - [Instagram]()
 
 <br>
