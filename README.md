@@ -238,7 +238,7 @@
 
 ## Day 17 <a name="id17"></a>
 
-<img src="./challenges/day-17/day17.gif" alt="day17">
+<img src="./challenges/day-17/day-17.gif" alt="day17" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7286173762293567488/)
 - [Instagram]()
