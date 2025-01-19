@@ -258,10 +258,11 @@
 
 ## Day 19 <a name="id19"></a>
 
-<img src="./challenges/day-19/day19.gif" alt="day19">
+<img src="./challenges/day-19/day-19.gif" alt="day19" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-19)
 
 <br>
 
