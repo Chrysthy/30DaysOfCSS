@@ -260,7 +260,7 @@
 
 <img src="./challenges/day-19/day-19.gif" alt="day19" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7286839623253643264/)
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-19)
 
