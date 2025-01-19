@@ -1,0 +1,41 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', sans-serif;
+    animation: bgchange 20s infinite;
+    margin: 0;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+
+    text-shadow: 0 5px 10px;
+}
+
+@keyframes bgchange {
+    0% {
+        background-color: #000000;
+    }
+
+    20% {
+        background-color: #dda0dd;
+    }
+
+    40% {
+        background-color: #ff69b4;
+    }
+
+    60% {
+        background-color: #ff1493;
+    }
+
+    100% {
+        background-color: #000000;
+    }
+
+}
