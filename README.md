@@ -268,7 +268,7 @@
 
 ## Day 20 <a name="id20"></a>
 
-<img src="./challenges/day-20/day20.gif" alt="day20">
+<img src="./challenges/day-20/day-20.gif" alt="day20" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7287233146603921408/)
 - [Instagram]()
