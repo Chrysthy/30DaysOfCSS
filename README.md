@@ -270,7 +270,7 @@
 
 <img src="./challenges/day-20/day20.gif" alt="day20">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7287233146603921408/)
 - [Instagram]()
 
 <br>
