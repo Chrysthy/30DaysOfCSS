@@ -278,7 +278,7 @@
 
 ## Day 21 <a name="id21"></a>
 
-<img src="./challenges/day-21/day21.gif" alt="day21" width="450px">
+<img src="./challenges/day-21/day-21.gif" alt="day21" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
