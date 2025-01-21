@@ -278,10 +278,11 @@
 
 ## Day 21 <a name="id21"></a>
 
-<img src="./challenges/day-21/day21.gif" alt="day21">
+<img src="./challenges/day-21/day21.gif" alt="day21" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-21)
 
 <br>
 
