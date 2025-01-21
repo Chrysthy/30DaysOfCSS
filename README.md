@@ -280,7 +280,7 @@
 
 <img src="./challenges/day-21/day-21.gif" alt="day21" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7287587406873059328/)
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-21)
 
