@@ -51,7 +51,7 @@
 - [Day 18 - Smoky Text](#id18)
 - [Day 19 - Background that changes color](#id19)
 - [Day 20 - Fill effect when hovering](#id20)
-- [Day 21 - Animated text background with stars](#id21)
+- [Day 21 - Animated background with stars](#id21)
 - [Day 22 - Colorful animation](#id22)
 - [Day 23 - Animation with text](#id23)
 - [Day 24 - Image Slideshow](#id24)
