@@ -288,7 +288,7 @@
 
 ## Day 22 <a name="id22"></a>
 
-<img src="./challenges/day-22/day22.gif" alt="day22">
+<img src="./challenges/day-22/day-22.gif" alt="day22" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
