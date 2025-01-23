@@ -300,7 +300,7 @@
 
 <img src="./challenges/day-23/day-23.gif" alt="day23" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7288331537790451712/)
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-23)
 
