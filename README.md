@@ -298,7 +298,7 @@
 
 ## Day 23 <a name="id23"></a>
 
-<img src="./challenges/day-23/day23.gif" alt="day23" width="450px">
+<img src="./challenges/day-23/day-23.gif" alt="day23" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
