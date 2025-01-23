@@ -298,10 +298,11 @@
 
 ## Day 23 <a name="id23"></a>
 
-<img src="./challenges/day-23/day23.gif" alt="day23">
+<img src="./challenges/day-23/day23.gif" alt="day23" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-23)
 
 <br>
   
