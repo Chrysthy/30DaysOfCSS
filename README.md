@@ -307,10 +307,11 @@
 <br>
   
 ## Day 24 <a name="id24"></a>
-<img src="./challenges/day-24/day24.gif" alt="day24">
+<img src="./challenges/day-24/day24.gif" alt="day24" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-24)
 
 <br>
   
