@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+}
+
+.card {
+    height: 400px;
+    width: 400px;
+
+    background: url(https://placecats.com/300/200) center / cover no-repeat;
+
+    border-radius: 20px;
+    border: 2px solid #fff;
+
+    animation: change 10s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    
+}
+
+@keyframes change {
+    0% {
+        background-image: url(https://placecats.com/300/200);
+    }
+
+    25% {
+        background-image: url(https://placecats.com/301/201);
+    }
+
+    50% {
+        background-image: url(https://placecats.com/302/202);
+    }
+
+    75% {
+        background-image: url(https://placecats.com/303/203);
+    }
+
+    100% {
+        background-image: url(https://placecats.com/304/204);
+    }
+}
