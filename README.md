@@ -316,7 +316,7 @@
 <br>
   
 ## Day 25 <a name="id25"></a>
-<img src="./challenges/day-25/day25.gif" alt="day25">
+<img src="./challenges/day-25/day-25.gif" alt="day25" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
