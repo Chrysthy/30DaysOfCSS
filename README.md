@@ -318,7 +318,7 @@
 ## Day 25 <a name="id25"></a>
 <img src="./challenges/day-25/day-25.gif" alt="day25" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7289000539810336768/)
 - [Instagram]()
 
 <br>
