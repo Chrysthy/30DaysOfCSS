@@ -27,7 +27,7 @@ button {
 }
 
 button:before {
-    content: '✔️ Dia 16';
+    content: '✔️ Complete';
 
     background-color: #adff2f;
 
