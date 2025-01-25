@@ -27,7 +27,7 @@ button {
 }
 
 button:before {
-    content: '✔️ Complete';
+    content: '✔️ Complete!';
 
     background-color: #adff2f;
 
