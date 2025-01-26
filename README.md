@@ -327,7 +327,7 @@
 ## Day 26 <a name="id26"></a>
 <img src="./challenges/day-26/day26.gif" alt="day26">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7289412158453374976/)
 - [Instagram]()
 
 <br>
