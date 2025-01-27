@@ -334,7 +334,7 @@
 <br>
   
 ## Day 27 <a name="id27"></a>
-<img src="./challenges/day-27/day27.gif" alt="day27" width="450px">
+<img src="./challenges/day-27/day-27.gif" alt="day27" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7289789432268775424/)
 - [Instagram]()
