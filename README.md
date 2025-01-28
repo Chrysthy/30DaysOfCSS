@@ -344,7 +344,7 @@
 
 ## Day 28 <a name="id28"></a>
 
-<img src="./challenges/day-28/day28.gif" alt="day28">
+<img src="./challenges/day-28/day28.gif" alt="day28" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
