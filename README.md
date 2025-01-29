@@ -355,7 +355,7 @@
 ## Day 29 <a name="id29"></a>
 <img src="./challenges/day-29/day-29.gif" alt="day29">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7290488483486294016/)
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-29)
 
