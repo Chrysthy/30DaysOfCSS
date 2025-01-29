@@ -59,7 +59,7 @@
 - [Day 26 - Animated circles](#id26)
 - [Day 27 - Circles with effects](#id27)
 - [Day 28 - Page Background Animation](#id28)
-- [Day 29 - Effect with heart](#id29)
+- [Day 29 - Effect with coffee](#id29)
 - [Day 30 - Fireworks](#id30)
 
 <br>
