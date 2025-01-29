@@ -353,7 +353,7 @@
 <br>
   
 ## Day 29 <a name="id29"></a>
-<img src="./challenges/day-29/day29.gif" alt="day29">
+<img src="./challenges/day-29/day-29.gif" alt="day29">
 
 - [LinkedIn]()
 - [Instagram]()
