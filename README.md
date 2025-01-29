@@ -357,6 +357,7 @@
 
 - [LinkedIn]()
 - [Instagram]()
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-29)
 
 <br>
 
@@ -366,7 +367,6 @@
 
 - [LinkedIn]()
 - [Instagram]()
-- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-29)
 
 <br>
 
