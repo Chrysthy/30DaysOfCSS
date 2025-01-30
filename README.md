@@ -363,7 +363,7 @@
 
 ## Day 30 <a name="id30"></a>
 
-<img src="./challenges/day-30/day30.gif" alt="day30" width="450px">
+<img src="./challenges/day-30/day-30.gif" alt="day30" width="450px">
 
 - [LinkedIn]()
 - [Instagram]()
