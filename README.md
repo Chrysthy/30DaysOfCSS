@@ -365,7 +365,7 @@
 
 <img src="./challenges/day-30/day-30.gif" alt="day30" width="450px">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7290859316494962690/)
 - [Instagram]()
 - [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-30)
 
