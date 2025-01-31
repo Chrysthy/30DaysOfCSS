@@ -379,7 +379,7 @@
 
 <img src="./challenges/day-31/day31.gif" alt="day31">
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7291227882259976192/)
 - [Instagram]()
 
 <br>
