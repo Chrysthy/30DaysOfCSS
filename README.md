@@ -392,7 +392,7 @@
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7291604837438283777/)
 - [Instagram]()
-- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-31)
+- [Code](https://github.com/Chrysthy/30DaysOfCSS/tree/main/challenges/day-32)
 
 <br>
 
