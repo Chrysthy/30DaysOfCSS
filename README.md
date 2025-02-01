@@ -69,6 +69,7 @@
 <br>
 
 - [Day 31 - Colorful Button](#id31)
+- [Day 32 - Colorful Button](#id32)
 
 <br>
 
