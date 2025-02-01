@@ -388,7 +388,7 @@
 
 ## Day 32 <a name="id32"></a>
 
-<img src="./bonus-content/day-31/day-31.gif" alt="day31" width="450px">
+<img src="./bonus-content/day-32/day-32.gif" alt="day32" width="450px">
 
 - [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7291604837438283777/)
 - [Instagram]()
